@@ -12,11 +12,11 @@
 
 # Abstract    
 
-​	The existing action tubelet detectors mainly depend on heuristic anchor box design and placement, which might be computationally expensive and sub-optimal for precise localization of action instances. In this paper, we present a new action tubelet detection framework, termed as **MovingCenter Detector (MOC-detector)**, by treating an action instance as a trajectory of moving points. 
+​    The existing action tubelet detectors mainly depend on heuristic anchor box design and placement, which might be computationally expensive and sub-optimal for precise localization of action instances. In this paper, we present a new action tubelet detection framework, termed as **MovingCenter Detector (MOC-detector)**, by treating an action instance as a trajectory of moving points. 
 
 ​    Based on the analysis that movement information could simplify and assist the action tubelet detection, our MOC-detector is decomposed into three crucial head branches:
 
-- (1) Center Branch for in- stance center detection and action recognition.
+- (1) Center Branch for instance center detection and action recognition.
 
 - (2) Movement Branch for movement estimation at adjacent frames to form moving point trajectories.
 
@@ -83,7 +83,7 @@
 
 
 
-## Code will be released soon......
+## Code will release soon......
 
 <br/>
 
