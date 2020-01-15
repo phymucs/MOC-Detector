@@ -1,6 +1,6 @@
 # Actions as Moving Points
 
-> Pytorch implementation of [Actions as Moving Points](https://arxiv.org/abs/2001.04608)
+> Pytorch implementation of [Actions as Moving Points](https://arxiv.org/abs/2001.04608).
 >
 >  View each action instance as a trajectory of moving points.
 
@@ -34,8 +34,8 @@
 
 ​	In this view, action tubelet detector could be decomposed into three simple steps: 
 
-- (1) localizing the center point (red dot) at key frame (i.e., center frame)
-- (2) estimating the movement at each frame with respect to center point (yellow arrow),
+- (1) localizing the center point (red dot) at key frame (i.e., center frame).
+- (2) estimating the movement at each frame with respect to center point (yellow arrow).
 - (3) regressing bounding box size at the calculated center point (green dots) for all frames. 
 
 <br/>
@@ -83,7 +83,7 @@
 
 
 
-## Code will release soon.
+## Code will be released soon......
 
 <br/>
 
