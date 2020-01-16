@@ -12,9 +12,9 @@
 
 # Abstract    
 
-​    The existing action tubelet detectors mainly depend on heuristic anchor box design and placement, which might be computationally expensive and sub-optimal for precise localization of action instances. In this paper, we present a new action tubelet detection framework, termed as **MovingCenter Detector (MOC-detector)**, by treating an action instance as a trajectory of moving points. 
+​    &emsp;The existing action tubelet detectors mainly depend on heuristic anchor box design and placement, which might be computationally expensive and sub-optimal for precise localization of action instances. In this paper, we present a new action tubelet detection framework, termed as **MovingCenter Detector (MOC-detector)**, by treating an action instance as a trajectory of moving points. 
 
-​    Based on the analysis that movement information could simplify and assist the action tubelet detection, our MOC-detector is decomposed into three crucial head branches:
+​    &emsp;Based on the analysis that movement information could simplify and assist the action tubelet detection, our MOC-detector is decomposed into three crucial head branches:
 
 - (1) Center Branch for instance center detection and action recognition.
 
@@ -22,7 +22,7 @@
 
 - (3) Box Branch for spatial extent detection by directly regressing bounding box size at the estimated center point of each frame. 
 
-​    These three branches work together to generate the tubelet detection results, that could be further linked to yield video level tubes with a common matching strategy. Our MOC-detector outperforms the existing state-of-the-art methods by a large margin under the same setting for frame-mAP and video-mAP on the JHMDB and UCF101-24 datasets. The performance gap is more evident for higher video IoU, demonstrating that our MOC-detector is particularly useful for more precise action detection.
+​    &emsp;These three branches work together to generate the tubelet detection results, that could be further linked to yield video level tubes with a common matching strategy. Our MOC-detector outperforms the existing state-of-the-art methods by a large margin under the same setting for frame-mAP and video-mAP on the JHMDB and UCF101-24 datasets. The performance gap is more evident for higher video IoU, demonstrating that our MOC-detector is particularly useful for more precise action detection.
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 # Result
 
-### Result on UCF101-24	(DLA-34,  K = 7)
+### Result on UCF101-24	&emsp;&emsp;(DLA-34,  K = 7)
 
 | Input Stream | frameAP 0.5 | videoAP 0.2 | videoAP 0.5 | videoAP 0.75 | videoAP 0.5:0.95 |
 | :----------: | :---------: | :---------: | :---------: | :----------: | :--------------: |
@@ -54,7 +54,7 @@
 
 
 
-### Result on JHMDB		   (DLA-34,  K = 7) 
+### Result on JHMDB		&emsp;&emsp;   (DLA-34,  K = 7) 
 
 |    JHMDB     | frameAP 0.5 | videoAP 0.2 | videoAP 0.5 | videoAP 0.75 | videoAP 0.5:0.95 |
 | :----------: | :---------: | :---------: | :---------: | :----------: | :--------------: |
@@ -64,7 +64,7 @@
 
 
 
-### Ablation Study ： Backbone		(RGB only,  K = 5)
+### Ablation Study ： &emsp;Backbone	&emsp;&emsp;&emsp;	(RGB only,  K = 5)
 
 |  Backbone  | frameAP 0.5 | videoAP 0.2 | videoAP 0.5 | videoAP 0.75 | videoAP 0.5:0.95 | Speed (relative) |
 | :--------: | :---------: | :---------: | :---------: | :----------: | :--------------: | :--------------: |
@@ -74,7 +74,7 @@
 
 
 
-### Ablation study ：        K				   (RGB only,  DLA-34)
+### Ablation study ：     &emsp;   K&emsp;&emsp;&emsp;(RGB only,  DLA-34)
 
 |   K   | frameAP 0.5 | videoAP 0.2 | videoAP 0.5 | videoAP 0.75 | videoAP 0.5:0.95 | Speed (relative) |
 | :---: | :---------: | :---------: | :---------: | :----------: | :--------------: | :--------------: |
