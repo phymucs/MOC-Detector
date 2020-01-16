@@ -64,7 +64,7 @@
 
 
 
-### Ablation Study ： Backbone		(RGB only,  K=5)
+### Ablation Study ： Backbone		(RGB only,  K = 5)
 
 |  Backbone  | frameAP 0.5 | videoAP 0.2 | videoAP 0.5 | videoAP 0.75 | videoAP 0.5:0.95 | Speed (relative) |
 | :--------: | :---------: | :---------: | :---------: | :----------: | :--------------: | :--------------: |
