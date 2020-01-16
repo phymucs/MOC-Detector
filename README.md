@@ -151,7 +151,7 @@ If you find this code is useful in your research, please cite:
 @InProceedings{li2020actions,
     title={Actions as Moving Points},
     author={Yixuan Li and Zixu Wang and Limin Wang and Gangshan Wu},
-		booktitle={arXiv preprint arXiv:2001.04608},
-		year={2020}
+    booktitle={arXiv preprint arXiv:2001.04608},
+    year={2020}
 }
 ```
