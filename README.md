@@ -54,7 +54,7 @@
 
 
 
-### Result on JHMDB		&emsp;&emsp;  &emsp; (DLA-34,  K = 7) 
+### Result on JHMDB		&emsp;&emsp;&emsp;  &emsp; (DLA-34,  K = 7) 
 
 |    JHMDB     | frameAP 0.5 | videoAP 0.2 | videoAP 0.5 | videoAP 0.75 | videoAP 0.5:0.95 |
 | :----------: | :---------: | :---------: | :---------: | :----------: | :--------------: |
@@ -74,7 +74,7 @@
 
 
 
-### Ablation study ：     &emsp;   K&emsp;&emsp;&emsp;&emsp;&emsp;(RGB only,  DLA-34)
+### Ablation study ：     &emsp;   K&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(RGB only,  DLA-34)
 
 |   K   | frameAP 0.5 | videoAP 0.2 | videoAP 0.5 | videoAP 0.75 | videoAP 0.5:0.95 | Speed (relative) |
 | :---: | :---------: | :---------: | :---------: | :----------: | :--------------: | :--------------: |
