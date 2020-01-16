@@ -52,7 +52,7 @@
 |     FLOW     |    67.10    |    74.99    |    44.86    |    17.90     |      20.68       |
 | **RGB+FLOW** |  **77.79**  |  **81.83**  |  **53.86**  |  **28.53**   |    **27.69**     |
 
-
+<br/>
 
 ### Result on JHMDB		&emsp;&emsp;&emsp;  &emsp; (DLA-34,  K = 7) 
 
@@ -62,7 +62,7 @@
 |     FLOW     |    67.09    |    77.44    |    77.11    |    60.65     |      51.67       |
 | **RGB+FLOW** |  **74.02**  |  **80.67**  |  **80.52**  |  **75.03**   |    **60.23**     |
 
-
+<br/>
 
 ### Ablation Study ：&emsp;Backbone&emsp;&emsp;&emsp;	(RGB only,  K = 5)
 
@@ -72,7 +72,7 @@
 |  DLA-34   |    70.39    |    76.70    |    48.56    |    25.52     |      25.34       |      x 1.00      |
 | Resnet101 |    70.60    |    77.45    |    50.57    |    26.24     |      25.89       |      x 0.92      |
 
-
+<br/>
 
 ### Ablation study ：     &emsp;   K&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(RGB only,  DLA-34)
 
