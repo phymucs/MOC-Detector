@@ -148,12 +148,10 @@
 If you find this code is useful in your research, please cite:
 
 ```bibtex
-@misc{li2020actions,
+@InProceedings{li2020actions,
     title={Actions as Moving Points},
     author={Yixuan Li and Zixu Wang and Limin Wang and Gangshan Wu},
-    year={2020},
-    eprint={2001.04608},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+		booktitle={arXiv preprint arXiv:2001.04608},
+		year={2020}
 }
 ```
