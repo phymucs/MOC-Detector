@@ -44,7 +44,7 @@
 
 # Result
 
-### Result on UCF101-24	&emsp;&emsp;(DLA-34,  K = 7)
+### Result on UCF101-24 	&emsp;&emsp;(DLA-34,  K = 7)
 
 | Input Stream | frameAP 0.5 | videoAP 0.2 | videoAP 0.5 | videoAP 0.75 | videoAP 0.5:0.95 |
 | :----------: | :---------: | :---------: | :---------: | :----------: | :--------------: |
