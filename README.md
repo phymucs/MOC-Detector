@@ -23,8 +23,6 @@
 
 # Abstract    
 
-​    <br/>
-
 ![image](image/Pipeline.jpg)
 
 <br/>
