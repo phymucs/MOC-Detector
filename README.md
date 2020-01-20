@@ -7,14 +7,14 @@
  Visualization results on validation set. *(GIFs will take a few minutes to load......)*
 
 <div align="center" style="width:image width px;">
-  <img  src="gif/SalsaSpin.gif" width=240>
-  <img  src="gif/fencing.gif" width=240>
+  <img  src="gif/SalsaSpin.gif" width=240>&emsp;
+  <img  src="gif/fencing.gif" width=240>&emsp;
   <img  src="gif/diving.gif" width=240 >
 </div>
 <br/>
 <div align="center" style="width:image width px;">
-  <img  src="gif/icedancing.gif" width=240>
-  <img  src="gif/biking.gif" width=240>
+  <img  src="gif/icedancing.gif" width=240>&emsp;
+  <img  src="gif/biking.gif" width=240>&emsp;
   <img  src="gif/fencing_mutil.gif" width=240 >
 </div>
 
