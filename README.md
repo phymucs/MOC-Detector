@@ -4,6 +4,20 @@
 >
 >  View each action instance as a trajectory of moving points.
 
+<div align="center" style="width:image width px;">
+  <img  src="gif/hourseriding.gif" width=240>
+  <img  src="gif/fencing.gif" width=240>
+  <img  src="gif/run.gif" width=240 >
+</div>
+<br/>
+<div align="center" style="width:image width px;">
+  <img  src="gif/icedancing.gif" width=240>
+  <img  src="gif/soccer.gif" width=240>
+  <img  src="gif/diving.gif" width=240 >
+</div>
+
+*(Note that scores don't represent confidence.The relative low scores are due to the property of the focal loss.)*
+
 <br/>
 
 ![image](image/Pipeline.jpg)
