@@ -8,7 +8,7 @@
 
 <div align="center" style="width:image width px;">
   <img  src="gif/SalsaSpin.gif" width=240>
-  <img  src="gif/fencing.gif" width=240>
+  <img  src="gif/TrampolineJumping.gif" width=240>
   <img  src="gif/diving.gif" width=240 >
 </div>
 <div align="center" style="width:image width px;">
@@ -16,15 +16,8 @@
   <img  src="gif/biking.gif" width=240>
   <img  src="gif/fencing_mutil.gif" width=240 >
 </div>
-<div align="center" style="width:image width px;">
-  <img  src="gif/TrampolineJumping.gif" width=240>
-  <img  src="gif/run.gif" width=240>
-  <img  src="gif/soccer.gif" width=240 >
-</div>
 
 *(Note that the relative low scores are due to the property of the focal loss.)*
-
-
 
 # Abstract    
 
