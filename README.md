@@ -5,7 +5,7 @@
 >  View each action instance as a trajectory of moving points.
 
 <div align="center" style="width:image width px;">
-  <img  src="gif/hourseriding.gif" width=240>
+  <img  src="gif/SalsaSpin.gif" width=240>
   <img  src="gif/fencing.gif" width=240>
   <img  src="gif/run.gif" width=240 >
 </div>
