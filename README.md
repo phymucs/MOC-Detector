@@ -4,6 +4,8 @@
 >
 >  View each action instance as a trajectory of moving points.
 
+ Visualization results on validation set. *(GIFs will take a few minutes to load......)*
+
 <div align="center" style="width:image width px;">
   <img  src="gif/SalsaSpin.gif" width=240>
   <img  src="gif/fencing.gif" width=240>
@@ -12,7 +14,7 @@
 <br/>
 <div align="center" style="width:image width px;">
   <img  src="gif/icedancing.gif" width=240>
-  <img  src="gif/soccer.gif" width=240>
+  <img  src="gif/biking.gif" width=240>
   <img  src="gif/diving.gif" width=240 >
 </div>
 
