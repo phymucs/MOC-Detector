@@ -7,28 +7,29 @@
  Visualization results on validation set. *(GIFs will take a few minutes to load......)*
 
 <div align="center" style="width:image width px;">
-  <img  src="gif/SalsaSpin.gif" width=240>&ensp;
-  <img  src="gif/fencing.gif" width=240>&ensp;
+  <img  src="gif/SalsaSpin.gif" width=240>
+  <img  src="gif/fencing.gif" width=240>
   <img  src="gif/diving.gif" width=240 >
 </div>
-<br/>
 <div align="center" style="width:image width px;">
-  <img  src="gif/icedancing.gif" width=240>&ensp;
-  <img  src="gif/biking.gif" width=240>&ensp;
+  <img  src="gif/icedancing.gif" width=240>
+  <img  src="gif/biking.gif" width=240>
   <img  src="gif/fencing_mutil.gif" width=240 >
 </div>
 
 *(Note that the relative low scores are due to the property of the focal loss.)*
 
-<br/>
+
+
+# Abstract    
+
+​    <br/>
 
 ![image](image/Pipeline.jpg)
 
 <br/>
 
-# Abstract    
-
-​    &emsp;The existing action tubelet detectors mainly depend on heuristic anchor box design and placement, which might be computationally expensive and sub-optimal for precise localization of action instances. In this paper, we present a new action tubelet detection framework, termed as **MovingCenter Detector (MOC-detector)**, by treating an action instance as a trajectory of moving points. 
+&emsp;The existing action tubelet detectors mainly depend on heuristic anchor box design and placement, which might be computationally expensive and sub-optimal for precise localization of action instances. In this paper, we present a new action tubelet detection framework, termed as **MovingCenter Detector (MOC-detector)**, by treating an action instance as a trajectory of moving points. 
 
 ​    &emsp;Based on the analysis that movement information could simplify and assist the action tubelet detection, our MOC-detector is decomposed into three crucial head branches:
 
