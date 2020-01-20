@@ -16,7 +16,7 @@
   <img  src="gif/diving.gif" width=240 >
 </div>
 
-*(Note that scores don't represent confidence.The relative low scores are due to the property of the focal loss.)*
+*(Note that the relative low scores are due to the property of the focal loss.)*
 
 <br/>
 
